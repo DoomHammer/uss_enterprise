@@ -1,6 +1,8 @@
 # uss_enterprise
 Live Long and Prosper 🖖 implemented in a `Makefile`.
 
+[![asciicast](https://asciinema.org/a/210976.png)](https://asciinema.org/a/210976)
+
 ## Installation
 
 Simply clone this repo to your local machine (the green button on GitHub could guide you). In order to run in it, you should have `make` installed, but I hope you already do.
