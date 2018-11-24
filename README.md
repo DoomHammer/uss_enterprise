@@ -13,5 +13,6 @@ Type `make it so` in your terminal and engage!
 
 ## Notes
 
-Yes, it's a joke. It is a byproduct of my article on `make` to illustrate
-targets, dependencies and rules in `Makefile`.
+Yes, it's a joke. It is a byproduct of
+[my article on `make`](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
+to illustrate targets, dependencies and rules in `Makefile`.
